@@ -1,5 +1,6 @@
 # Minor_Project
-#BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING MODEL
+
+# BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING MODEL
 Diagnosis of eye problems such as Retinal tear, Retinal detachment, Diabetic retinopathy, Epiretinal membrane done by automation’s which uses image segmentation algorithms to extract various
 features from the eyes, lacks accuracy which leads to improper treatment and adverse consequences.
 ACE-net is proposed with the intent of developing an image segmentation model that provides extracted features with higher accuracy in the field of bio-medicals than the previous models. ACE-net
@@ -13,7 +14,7 @@ result accuracy score of 95, F1 score of 48, jaccard score of 31, recall score o
 of 30 this project provided satisfactory results. An accuracy graph is plotted to represent the accuracy
 of each test case
 
-#Data importing and processing
+# Data importing and processing
 Being able to import and export data is useful when you move data between databases that are used for
 different purposes but need to share some data. between development and production databases. The
 dataset we are going to use is the DRIVE (Digital Retinal Images for Vessel Extraction) dataset. The
